@@ -1,0 +1,11 @@
+Recommender System Evaluation
+==================================================
+Val samples      : 2,590,281
+Sample users     : 500
+Pop penalty      : 0.050
+RMSE             : 0.7836
+MAE              : 0.5941
+Precision@10     : 0.4407
+Recall@10        : 0.8768
+Coverage         : 0.0273
+Diversity        : 0.7187
